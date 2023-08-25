@@ -1,3 +1,11 @@
+### NEXT 13 CRUD APPLICATION
+This project use Next 13, Typescipt, TailwindCSS, Prisma ORM
+
+## Preview
+![image](https://github.com/naufalzp/next-crud/assets/98691805/ffa3a615-fbe8-4f09-b150-da0d8495c288)
+![image](https://github.com/naufalzp/next-crud/assets/98691805/a6f23fcc-af35-4893-8868-01c2ee06cbd9)
+![image](https://github.com/naufalzp/next-crud/assets/98691805/1e969ef1-a801-486e-9577-d2599013240a)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
